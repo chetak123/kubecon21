@@ -14,7 +14,7 @@
 |A Tall Tale of GitOps - Prasanjit Singh, Starzplay|[Watch Here](https://www.youtube.com/watch?v=W_MTzfc0Bzo)|-|
 |The Hitchhiker's Guide to Kubernetes Vulnerabilities - Robert Clark & Micah Hausler, Amazon|[Watch Here](https://www.youtube.com/watch?v=RKm5QA3pdaQ)|-|
 |Intro to Cloud Native Buildpacks - Javier Romero, VMware; Sambhav Kothari, Bloomberg|[Watch Here](https://www.youtube.com/watch?v=bpshvqQMYM0)|-|
-|A Safer Curl | Bash for the Cloud - Carolyn Van Slyck, Microsoft|[Watch Here](https://www.youtube.com/watch?v=hLQC-Sfy0NI)|-|
+|A Safer Curl Bash for the Cloud - Carolyn Van Slyck, Microsoft|[Watch Here](https://www.youtube.com/watch?v=hLQC-Sfy0NI)|-|
 |Beyond Block Diagrams: Different Ways of Understanding K8s Architecture - Kim Schlesinger|[Watch Here](https://www.youtube.com/watch?v=X40LJM0KuQ8)|-|
 |Do Not Disturb Mode: Fine-Tuning Resources for Latency Sensitive Workloads - A Kervinen & P Hunt|[Watch Here](https://www.youtube.com/watch?v=2ILD_Kwju0w)|-|
 |k8snetlook – Root-Causing k8s Network Problems in an Automated Way - Arun Sriraman, VMware|[Watch Here](https://www.youtube.com/watch?v=_BDoxy9h95U)|[Slides](kccncna2021/2021-10-13/k8snetlook-root-causing-k8s-network-problems-in-an-automated-way-arun-sriraman-vmware.pdf)|
