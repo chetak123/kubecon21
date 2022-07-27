@@ -164,7 +164,7 @@
 |Movienight 101: How to Power a Video Streaming with Kubernetes and WebRTC - Rachel Sheikh, Twitter|[Watch Here](https://www.youtube.com/watch?v=GrozSkmVHdw)|-|
 |Shh, It’s a Secret: Managing Your Secrets in a GitOps Way - Jake Wernette & Josh Kayani, IBM|[Watch Here](https://www.youtube.com/watch?v=7L6nSuKbC2c)|-|
 |Putting Into Practice the Skills You've Learned Contributing to Kubernetes - Kiran Oliver, Camunda|[Watch Here](https://www.youtube.com/watch?v=xbnotgAD5WY)|-|
-|A Safari of Kubernetes and its Natural Habitat - Noah Abrahams, StormForge|[Watch Here](https://www.youtube.com/watch?v=RnhRj_EsYtk)|[Slides](/2021-10-13/a-safari-of-kubernetes-and-its-natural-habitat-noah-abrahams-stormforge.pdf)|
+|A Safari of Kubernetes and its Natural Habitat - Noah Abrahams, StormForge|[Watch Here](https://www.youtube.com/watch?v=RnhRj_EsYtk)|[Slides](kccncna2021/2021-10-13/a-safari-of-kubernetes-and-its-natural-habitat-noah-abrahams-stormforge.pdf)|
 |Cloud Native Apps with Server-Side WebAssembly - Liam Randall, Cosmonic|[Watch Here](https://www.youtube.com/watch?v=2OTyBxPyW7Q)|-|
 |The Control Loop As An Application Development Framework - Nick Santos, Tilt|[Watch Here](https://www.youtube.com/watch?v=uKF8v9X6hSE)|-|
 |Customizing Kustomize with Client-Side Custom Resources - Katrina Verey, Apple & Jeff Regan, Google|[Watch Here](https://www.youtube.com/watch?v=YlFUv4F5PYc)|-|
