@@ -54,7 +54,7 @@
 |Getting Involved in the K8s Release Shadow Program - Divya Mohan, HSBC|[Watch Here](https://www.youtube.com/watch?v=b2lqLgOrNgI)|[Slides](slides/getting-involved-in-the-k8s-release-shadow-program-divya-mohan-hsbc.pdf)|
 |The Prometheus Conformance Program - Richard Hartmann, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=N_OkWRC-xQU)|-|
 |What We Learned from Reading 100+ Kubernetes Post-Mortems - Noaa Barki & Shimon Tolts, Datree|[Watch Here](https://www.youtube.com/watch?v=Bxnu3llBN20)|-|
-|Container Checkpoint/Restore at Scale for Fast Pod Startup Time - Ritesh Naik, MathWorks|[Watch Here](https://www.youtube.com/watch?v=BXVyszsbYmg)|-|
+|Container Checkpoint/Restore at Scale for Fast Pod Startup Time - Ritesh Naik, MathWorks|[Watch Here](https://www.youtube.com/watch?v=BXVyszsbYmg)|[Slides](slides/container-checkpointrestore-at-scale-for-fast-pod-startup-time-ritesh-naik-mathworks.pdf)|
 |Calico/VPP: Using Calico’s Pluggable Dataplanes for Fun and Fast N... Aloys Augustin & Chris Tomkins|[Watch Here](https://www.youtube.com/watch?v=9zBu4Zcf__c)|-|
 |Fluid - Build Data Orchestration in Kubernetes - Yang Che, Alibaba & Yuandong Xie, Tencent|[Watch Here](https://www.youtube.com/watch?v=Pjt8v4GYvRQ)|[Slides](slides/fluid-build-data-orchestration-in-kubernetes-yang-che-alibaba-yuandong-xie-tencent.pdf)|
 |Observe with Rust: OpenTelemetry and Tremor - Gary White Jr., Wayfair|[Watch Here](https://www.youtube.com/watch?v=RI9cy8OJQmY)|-|
@@ -108,7 +108,7 @@
 |Regulations, Ethics And Messy Data: Tales From An Open Source Analyst - Sophia Vargas, Google|[Watch Here](https://www.youtube.com/watch?v=Eti6Qhs1w0I)|-|
 |A Vulnerable Tale About Burnout - Julia Simon, CloudOps|[Watch Here](https://www.youtube.com/watch?v=lpiXbfOTNYw)|[Slides](slides/a-vulnerable-tale-about-burnout-julia-simon-cloudops.pdf)|
 |Kubernetes SIG CLI: Intro and Updates - Eddie Zaneski, Katrina Verey, Sean Sullivan|[Watch Here](https://www.youtube.com/watch?v=2o7WDLiXrW4)|[Slides](slides/kubernetes-sig-cli-intro-and-updates-eddie-zaneski-amazon-web-services-katrina-verey-apple-sean-sullivan-google.pdf)|
-|Vitess: Intro and New Features - Deepthi Sigireddi, Alkin Tezuysal, Andrew Mason & Malcolm Akinje|[Watch Here](https://www.youtube.com/watch?v=uKdMR89mfdE)|-|
+|Vitess: Intro and New Features - Deepthi Sigireddi, Alkin Tezuysal, Andrew Mason & Malcolm Akinje|[Watch Here](https://www.youtube.com/watch?v=uKdMR89mfdE)|[Slides](slides/vitess-introduction-and-new-features-deepthi-sigireddi-alkin-tezuysal-planetscale-inc-andrew-mason-malcolm-akinje-slack-corp.pdf)|
 |Kubernetes VMware User Group: Using GPUs with K8s on vSphere - Steven Wong & Myles Gray, VMware|[Watch Here](https://www.youtube.com/watch?v=_NYjvz92O58)|[Slides](slides/kubernetes-vmware-user-group-using-gpus-with-k8s-on-vsphere-steven-wong-myles-gray-vmware.pdf)|
 |Function to Container - Building a FaaS Experience - Evan Anderson, VMware|[Watch Here](https://www.youtube.com/watch?v=Y78WRqfsmG8)|-|
 |How Event Driven Autoscaling in Kubernetes Can Combat Climate Change - Annie Talvasto & Adi Polak|[Watch Here](https://www.youtube.com/watch?v=XUw4PDda5VQ)|-|
@@ -159,10 +159,10 @@
 |Using SLOs for Continuous Performance Optimizations of Your K8s Workloads - Andreas Grabner|[Watch Here](https://www.youtube.com/watch?v=V4ByBVARjkc)|[Slides](slides/using-slos-for-continuous-performance-optimizations-of-your-k8s-workloads-andreas-grabner-dynatrace.pptx)|
 |Effortless Profiling on Kubernetes - Eden Federman, Verizon|[Watch Here](https://www.youtube.com/watch?v=VPN-q2rjhxc)|-|
 |Cloud Provider Extraction: What We’ve Done, Where We Are and What's Left- W Fender, S Wong, N Turner|[Watch Here](https://www.youtube.com/watch?v=ogLedHIERaA)|-|
-|GitOps+Jenkins-CI With Declarative Everything - Kingdon Barrett, Weaveworks|[Watch Here](https://www.youtube.com/watch?v=rtkBnADRpNE)|-|
+|GitOps+Jenkins-CI With Declarative Everything - Kingdon Barrett, Weaveworks|[Watch Here](https://www.youtube.com/watch?v=rtkBnADRpNE)|[Slides](slides/gitopsjenkins-ci-with-declarative-everything-kingdon-barrett-weaveworks.pdf)|
 |Security Through Transparency: Kubernetes SIG Security Update|[Watch Here](https://www.youtube.com/watch?v=O5Wy7zSigOU)|-|
 |Movienight 101: How to Power a Video Streaming with Kubernetes and WebRTC - Rachel Sheikh, Twitter|[Watch Here](https://www.youtube.com/watch?v=GrozSkmVHdw)|[Slides](slides/movienight-101-how-to-power-a-video-streaming-with-kubernetes-and-webrtc-rachel-sheikh-twitter.pptx)|
-|Shh, It’s a Secret: Managing Your Secrets in a GitOps Way - Jake Wernette & Josh Kayani, IBM|[Watch Here](https://www.youtube.com/watch?v=7L6nSuKbC2c)|-|
+|Shh, It’s a Secret: Managing Your Secrets in a GitOps Way - Jake Wernette & Josh Kayani, IBM|[Watch Here](https://www.youtube.com/watch?v=7L6nSuKbC2c)|[Slides](slides/shh-its-a-secret-managing-your-secrets-in-a-gitops-way-jake-wernette-josh-kayani-ibm.pdf)|
 |Putting Into Practice the Skills You've Learned Contributing to Kubernetes - Kiran Oliver, Camunda|[Watch Here](https://www.youtube.com/watch?v=xbnotgAD5WY)|[Slides](slides/putting-into-practice-the-skills-youve-learned-contributing-to-kubernetes-kiran-oliver-camunda.pptx)|
 |A Safari of Kubernetes and its Natural Habitat - Noah Abrahams, StormForge|[Watch Here](https://www.youtube.com/watch?v=RnhRj_EsYtk)|[Slides](slides/a-safari-of-kubernetes-and-its-natural-habitat-noah-abrahams-stormforge.pdf)|
 |Cloud Native Apps with Server-Side WebAssembly - Liam Randall, Cosmonic|[Watch Here](https://www.youtube.com/watch?v=2OTyBxPyW7Q)|-|
