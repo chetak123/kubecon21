@@ -1,6 +1,6 @@
 # Youtube Kubecon-to-markdown  
 
-**How to run?**  
+ 
 ### Getting the Presentation Slides:
 
 - Get the schedule link and exact dates from Sched
@@ -33,3 +33,10 @@ eg. Link for Kubecon EU 2022 https://www.youtube.com/playlist?list=PLj6h78yzYM2M
 This piece of code let us iterate through the playlist in youtube to track down the title and respective URLs.
 It also prints out the formatting or say template.
 In a way which can be copied to github as in markdown language for tabular display.  
+
+### Debugging the file
+
+There are chances that certain presentation files do not get matched with their correct presentation (either because there is a difference in name or some other reasons).
+For those conditions you can check the files as follows:
+- At the end of python execution you get the total number of files added to markdown.md, you can verify the number with total number of lines in kccncVideos.txt file (names of all slides downloaded by kubecon.sh)
+- You can then look for the left out files by executing the commented lines of code (present at the last section of python file).
